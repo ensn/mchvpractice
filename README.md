@@ -1,2 +1,1 @@
-# Downloads are in releases
-Practise saves for speedrunning Minecraft: Java Edition Historical Versions
+# [Downloads](https://github.com/ensn/mchvpractise/releases)
